@@ -11,10 +11,14 @@
             "id": "5eaffcdd3091a8f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།"
             }
           }
         ]
@@ -193,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "5eaffcdd3091a8f8",
   "lastOpenFiles": [
+    "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -229,7 +234,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/create-skill/SKILL.md"
   ]
 }
