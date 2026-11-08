@@ -199,6 +199,10 @@
   },
   "active": "a98784178b45d7df",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
     "1-SOURCES/Commentaries/གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང་གི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
@@ -207,10 +211,6 @@
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.docx.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།..md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -233,7 +233,6 @@
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/glossary-select/SKILL.md"
   ]
 }
