@@ -199,9 +199,10 @@
   },
   "active": "a98784178b45d7df",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/lam-bras-segmented.md",
+    "1-SOURCES/Commentaries/ngawang-kunga-lam-bras-segmented.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་བུ་རྩ་བ་རྡོ་རྗེའི་ཚིག་རྐང་གི་དོན་འགྲེལ་ཁོག་ཕུབ་བློ་གསལ་ཡིད་བདེ་འབྱུང་བའི་དགའ་ཚལ།.md",
     "1-SOURCES/Commentaries/གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང་གི་འགྲེལ་པ།.md",
+    "1-SOURCES/Commentaries/lam-bras-segmented.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
+    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
   ]
 }
