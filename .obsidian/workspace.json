@@ -200,13 +200,13 @@
   "active": "a98784178b45d7df",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང་གི་འགྲེལ་པ།.md",
-    "1-SOURCES/Commentaries/ལམ་འབྲས་བུ་རྩ་བ་རྡོ་རྗེའི་ཚིག་རྐང་གི་དོན་འགྲེལ་ཁོག་ཕུབ་བློ་གསལ་ཡིད་བདེ་འབྱུང་བའི་དགའ་ཚལ།.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
-    "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
+    "1-SOURCES/Commentaries/ལམ་འབྲས་བུ་རྩ་བ་རྡོ་རྗེའི་ཚིག་རྐང་གི་དོན་འགྲེལ་ཁོག་ཕུབ་བློ་གསལ་ཡིད་བདེ་འབྱུང་བའི་དགའ་ཚལ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་འགྲེལ་པ་གཏུབ་ཟིན.md",
     "1-SOURCES/Commentaries/R05EA7EE5 གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང་གི་འགྲེལ་པ།-2.md",
     "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.docx.md",
@@ -233,7 +233,6 @@
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md"
+    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
   ]
 }
