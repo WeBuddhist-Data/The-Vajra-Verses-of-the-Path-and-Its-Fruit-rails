@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -188,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 327.43951416015625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +207,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "1010fdbaeceef62a",
   "lastOpenFiles": [
+    "0-INBOX/temp/tagged-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py",
     "4-SYSTEM/Skills/tag-inline-toc/scripts/find_sa_bcad.py",
     "4-SYSTEM/Skills/tag-inline-toc/scripts/example-candidates.json",
@@ -227,7 +227,6 @@
     "0-INBOX/TOC/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-notes.md",
     "_notes.tmp",
     "_toc.tmp",
-    "0-INBOX/TOC",
     "1-SOURCES/Commentaries/ལམ་འབྲས་བུ་རྩ་བ་རྡོ་རྗེའི་ཚིག་རྐང་གི་དོན་འགྲེལ་ཁོག་ཕུབ་བློ་གསལ་ཡིད་བདེ་འབྱུང་བའི་དགའ་ཚལ།.md",
     "1-SOURCES/Commentaries/གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་གཞུང་རྡོ་རྗེའི་ཚིག་རྐང་གི་འགྲེལ་པ།.md",
     "1-SOURCES/Text/ལམ་འབྲས་རྡོ་རྗེ་ཚིག་རྐང་མ།.md",
