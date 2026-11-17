@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
+                "file": "0-INBOX/TOC/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-དཀར་ཆག.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།"
+              "title": "toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-དཀར་ཆག"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
+                "file": "0-INBOX/TOC/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-དཀར་ཆག.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,8 +207,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "a98784178b45d7df",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "0-INBOX/temp/tagged-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py",
     "4-SYSTEM/Skills/tag-inline-toc/scripts/find_sa_bcad.py",
@@ -222,7 +223,6 @@
     "4-SYSTEM/Skills/structural-outline-ingest/Gem-structural-outline-ingest.md",
     "4-SYSTEM/Skills/structural-outline-ingest",
     "0-INBOX/TOC/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-དཀར་ཆག.md",
-    "1-SOURCES/Commentaries/ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "0-INBOX/temp/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།.md",
     "0-INBOX/TOC/toc-ལམ་འབྲས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད།-notes.md",
     "_notes.tmp",
